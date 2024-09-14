@@ -28,5 +28,4 @@
 </div>
 
 
-
-
+![snake gif](https://github.com/StephanyOliverr/StephanyOliverr/blob/output/github-contribution-grid-snake.svg)
